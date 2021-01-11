@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "71121299981",
+    "project_id": "aleksandrov-chat",
+    "storage_bucket": "aleksandrov-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71121299981:android:4b5cd322d87bdabb4e8344",
+        "android_client_info": {
+          "package_name": "com.example.aleksandrov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71121299981-1u1ij2bshfj45eq2k8he2useilkh823f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aleksandrov",
+            "certificate_hash": "e0c1103113f40fd179ee6f947eac534b4be77e0d"
+          }
+        },
+        {
+          "client_id": "71121299981-no9trq99jsqvv596qsj6fhk35kcp4d88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzdw9Jcxt7hcHPtGZAwEbWeosd4i359I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71121299981-no9trq99jsqvv596qsj6fhk35kcp4d88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
